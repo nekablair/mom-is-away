@@ -1,0 +1,2 @@
+# When Mom Is Away App
+## A way to help loved ones stay on top of errands, homework and the like when Mom isn't around to keep everything glued together. Use it as you would a file box that contains all the numbers, important things and miscellaneous stuff we all tend to forget once we've walked out the door. It can be updated from anywhere in the world as long as you have an internet connection. This is one less thing you have to worry about Momma, when you are far from home.
